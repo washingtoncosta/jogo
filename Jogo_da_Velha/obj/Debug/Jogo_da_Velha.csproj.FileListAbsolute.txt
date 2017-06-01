@@ -1,0 +1,27 @@
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe.config
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.exe
+E:\Executaveis liberados\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.pdb
+D:\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe.config
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.exe
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.pdb
+D:\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+D:\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe.config
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.exe
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.pdb
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csprojResolveAssemblyReference.cache
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Jogo_da_Velha\Jogo_da_Velha\obj\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
